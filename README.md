@@ -1,4 +1,6 @@
 ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Starter code for Udacity ud120: "Intro to Machine Learning"
+
+I've added quiz code as well. Answered quizzes and projects are in the `answered` branch.
